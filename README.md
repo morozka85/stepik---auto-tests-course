@@ -1,2 +1,2 @@
-# stepik---auto-tests-course
+# stepik-course
 Home tasks from course
